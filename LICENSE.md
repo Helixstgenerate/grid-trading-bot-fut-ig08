@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with quantitative grid trading bot for futures | market-making + liquidity-provision, the #1 grid trading bot for futures. Includes market-making and
 
 
 
